@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/pvkhoa/xyz#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mysql": "^2.18.1"
   }
 }
